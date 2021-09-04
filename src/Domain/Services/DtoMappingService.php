@@ -2,7 +2,7 @@
 
 namespace Ro\DtoPhp\Domain\Services;
 
-use Fory\Shared\Domain\BaseDtoRepository;
+use Ro\DtoPhp\Domain\BaseDtoRepository;
 use Ro\DtoPhp\Domain\Contracts\DTO\DtoFactoryRepository;
 use Ro\DtoPhp\Domain\Contracts\DTO\DtoRepository;
 use Ro\DtoPhp\Domain\Contracts\Encapsulation\EncapsulationRepository;

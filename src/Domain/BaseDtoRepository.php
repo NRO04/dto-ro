@@ -1,8 +1,7 @@
 <?php
 
 
-namespace Fory\Shared\Domain;
-
+namespace Ro\DtoPhp\Domain;
 
 use Ro\DtoPhp\Domain\Contracts\DTO\DtoRepository;
 
