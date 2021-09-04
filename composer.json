@@ -2,6 +2,8 @@
     "name": "ro/dto-php",
     "description": "Dto - ro for php improves communication by optimizing the number of method calls.",
     "type": "library",
+    "license": "MIT",
+    "keywords": ["DTO", "laravel","dto-for-laravel"],
     "autoload": {
         "psr-4": {
             "Ro\\DtoPhp\\": "src/"
