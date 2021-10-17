@@ -24,7 +24,7 @@ composer require ro/dto-php
 | Action (Methods)        | Description           | Default value  |
 | ------------- |:-------------:| -----:|
 | set      | set new properties  | ["key" => "value"]|
-| get      | obtains a specific property      |   [] |
+| get      | obtains a specific property      |   (string) 'key' |
 | extractDto | gets all properties with their respective values      |    [] |
 
 
